@@ -1,4 +1,4 @@
-# Adjust
+# Numbers
 
 A CLI that prints out the numbers 1-10 in random order.
 
